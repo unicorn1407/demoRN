@@ -11,6 +11,13 @@ Before you begin, ensure you have the following software installed on your machi
 - Git
 - Expo CLI (`npm install -g expo-cli`)
 
+## Screenshots
+![Sign up with data](screenshots/demo1.jpg)
+
+![Sign up no data](screenshots/demo2.jpg)
+
+![Categories selection](screenshots/demo3.jpg)
+
 ## Getting Started
 
 Follow these steps to set up and run the project locally:
